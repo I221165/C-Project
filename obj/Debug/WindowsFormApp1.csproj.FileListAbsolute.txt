@@ -1,0 +1,16 @@
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.Form1.resources
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.Properties.Resources.resources
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.SignUp.resources
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+E:\3rd Semester\WindowsFormApp1\bin\Debug\WindowsFormApp1.exe.config
+E:\3rd Semester\WindowsFormApp1\bin\Debug\WindowsFormApp1.exe
+E:\3rd Semester\WindowsFormApp1\bin\Debug\WindowsFormApp1.pdb
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.exe
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.pdb
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.GymMemberReportO.resources
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormsApp1.GymOwnerMain.resources
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.GymOwnerTrainerR.resources
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.TrainerAddition.resources
+E:\3rd Semester\WindowsFormApp1\obj\Debug\WindowsFormApp1.GymOwnerCheck.resources
