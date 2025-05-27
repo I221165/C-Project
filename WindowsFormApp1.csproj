@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{39A89D14-6673-4A46-A64C-64AF1B3E03B6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WindowsFormApp1</RootNamespace>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
     <AssemblyName>WindowsFormApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
